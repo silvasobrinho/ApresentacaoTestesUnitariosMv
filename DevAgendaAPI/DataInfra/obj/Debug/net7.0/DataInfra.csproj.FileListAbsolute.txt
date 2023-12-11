@@ -1,0 +1,15 @@
+C:\GitHub\ResiAPI\DevAgendaAPI\DataInfra\obj\Debug\net7.0\DataInfra.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ResiAPI\DevAgendaAPI\DataInfra\obj\Debug\net7.0\DataInfra.AssemblyInfoInputs.cache
+C:\GitHub\ResiAPI\DevAgendaAPI\DataInfra\obj\Debug\net7.0\DataInfra.AssemblyInfo.cs
+C:\GitHub\ResiAPI\DevAgendaAPI\DataInfra\obj\Debug\net7.0\DataInfra.csproj.CoreCompileInputs.cache
+C:\GitHub\ResiAPI\DevAgendaAPI\DataInfra\bin\Debug\net7.0\DataInfra.deps.json
+C:\GitHub\ResiAPI\DevAgendaAPI\DataInfra\bin\Debug\net7.0\DataInfra.dll
+C:\GitHub\ResiAPI\DevAgendaAPI\DataInfra\bin\Debug\net7.0\DataInfra.pdb
+C:\GitHub\ResiAPI\DevAgendaAPI\DataInfra\bin\Debug\net7.0\Domain.dll
+C:\GitHub\ResiAPI\DevAgendaAPI\DataInfra\bin\Debug\net7.0\Domain.pdb
+C:\GitHub\ResiAPI\DevAgendaAPI\DataInfra\obj\Debug\net7.0\DataInfra.csproj.AssemblyReference.cache
+C:\GitHub\ResiAPI\DevAgendaAPI\DataInfra\obj\Debug\net7.0\DataInfra.csproj.CopyComplete
+C:\GitHub\ResiAPI\DevAgendaAPI\DataInfra\obj\Debug\net7.0\DataInfra.dll
+C:\GitHub\ResiAPI\DevAgendaAPI\DataInfra\obj\Debug\net7.0\refint\DataInfra.dll
+C:\GitHub\ResiAPI\DevAgendaAPI\DataInfra\obj\Debug\net7.0\DataInfra.pdb
+C:\GitHub\ResiAPI\DevAgendaAPI\DataInfra\obj\Debug\net7.0\ref\DataInfra.dll

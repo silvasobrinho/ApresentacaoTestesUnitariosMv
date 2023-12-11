@@ -1,0 +1,15 @@
+C:\GitHub\ResiAPI\DevAgendaAPI\Service\bin\Debug\net7.0\Application.deps.json
+C:\GitHub\ResiAPI\DevAgendaAPI\Service\bin\Debug\net7.0\Application.dll
+C:\GitHub\ResiAPI\DevAgendaAPI\Service\bin\Debug\net7.0\Application.pdb
+C:\GitHub\ResiAPI\DevAgendaAPI\Service\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ResiAPI\DevAgendaAPI\Service\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\GitHub\ResiAPI\DevAgendaAPI\Service\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\GitHub\ResiAPI\DevAgendaAPI\Service\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\GitHub\ResiAPI\DevAgendaAPI\Service\obj\Debug\net7.0\Application.dll
+C:\GitHub\ResiAPI\DevAgendaAPI\Service\obj\Debug\net7.0\refint\Application.dll
+C:\GitHub\ResiAPI\DevAgendaAPI\Service\obj\Debug\net7.0\Application.pdb
+C:\GitHub\ResiAPI\DevAgendaAPI\Service\obj\Debug\net7.0\ref\Application.dll
+C:\GitHub\ResiAPI\DevAgendaAPI\Service\bin\Debug\net7.0\Domain.dll
+C:\GitHub\ResiAPI\DevAgendaAPI\Service\bin\Debug\net7.0\Domain.pdb
+C:\GitHub\ResiAPI\DevAgendaAPI\Service\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\GitHub\ResiAPI\DevAgendaAPI\Service\obj\Debug\net7.0\Application.csproj.CopyComplete
